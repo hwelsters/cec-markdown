@@ -5,7 +5,7 @@
 
 ![rainbow](https://user-images.githubusercontent.com/84760072/208384585-03ebeb8d-25ad-4764-8c55-3952c670dce5.png)
 
-<h2>🤔 Faq</h2>
+<h2>🤔 Da FAQ</h2>
 
 * **WTF even is cec?** - cec stands for colon. exclamation. colon. It's a markdown language that I am trying to convince you to use where you surround your styled text with `:!:`. I used it on [snakecode](https://github.com/hwelsters/snakecode) to store styled text. Markdown was a bit too limiting and I wanted ✨cooler✨ effects. So I made my own smol markdown language thing.  
   
