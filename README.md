@@ -7,5 +7,5 @@
 
 <h2>🤔 Faq</h2>
 <ul>
-  <li><b>WTF even is cec?</b> - It's a markdown language that I am trying to advocate where you surround your styled text with `:!:` I used it on [snakecode](https://github.com/hwelsters/snakecode) to store styled text. Markdown was a bit too limiting and I wanted ✨cooler✨ effects. So I made this small "language"  
+  <li><b>WTF even is cec?</b> - It's a markdown language that I am trying to advocate where you surround your styled text with ```:!:``` I used it on [snakecode](https://github.com/hwelsters/snakecode) to store styled text. Markdown was a bit too limiting and I wanted ✨cooler✨ effects. So I made this small "language"  
 </ul>
