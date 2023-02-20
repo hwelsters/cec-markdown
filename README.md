@@ -1,4 +1,4 @@
-<h1 align="center">🐍</h1>
+<h1 align="center">🐱‍🐉</h1>
 <h1 align="center"> cec markdown </h1>
 <h3 align="center"> Cool easily configurable, markdown to styled text converter. </h3>
 <h5 align="center"> The coolest styles in the world. </h5>
