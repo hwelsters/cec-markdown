@@ -7,4 +7,5 @@
 
 <h2>🤔 Faq</h2>
 
-* WTF even is cec?</b> - cec stands for colon. exclamation. colon. It's a markdown language that I am trying to advocate where you surround your styled text with `test` I used it on [snakecode](https://github.com/hwelsters/snakecode) to store styled text. Markdown was a bit too limiting and I wanted ✨cooler✨ effects. So I made this small "language"  
+* **WTF even is cec?** - cec stands for colon. exclamation. colon. It's a markdown language that I am trying to convince you to use where you surround your styled text with `:!:`. I used it on [snakecode](https://github.com/hwelsters/snakecode) to store styled text. Markdown was a bit too limiting and I wanted ✨cooler✨ effects. So I made this small "language"  
+* **Why did you pick `:!:`** - I couldn't use `**` or ``` ` ``` because Python uses all those characters lol
