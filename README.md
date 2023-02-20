@@ -1,6 +1,6 @@
 <h1 align="center">🐱‍🐉</h1>
 <h1 align="center"> cec markdown </h1>
-<h3 align="center"> A cool, simple and easy to configure markdown language for <strong>any</strong> text effect you want. </h3>
+<h3 align="center"> A cool, simple and easy to configure markdown language for <strong>any</strong> text effect you want in Javascript. </h3>
 <h5 align="center"> Documentation coming soon... </h5>
 
 ![rainbow](https://user-images.githubusercontent.com/84760072/208384585-03ebeb8d-25ad-4764-8c55-3952c670dce5.png)
