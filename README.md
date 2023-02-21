@@ -1,4 +1,4 @@
-# 🐛 CEC Markdown
+# 🐛 CECdown
 > A small markdown language parser / styled text renderer
 
 ## 🤔 FAQ  
