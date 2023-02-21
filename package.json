@@ -1,0 +1,21 @@
+{
+  "name": "cecdown",
+  "version": "1.0.0",
+  "description": "A small markdown language parser / styled text renderer",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwelsters/cecdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "html"
+  ],
+  "author": "hwelsters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwelsters/cecdown/issues"
+  },
+  "homepage": "https://github.com/hwelsters/cecdown#readme"
+}
