@@ -7,4 +7,4 @@
   
 * **Why did you pick `:!:`?** - I couldn't use `**` or ``` ` ``` because Python uses all those literals lol. So I chose the weirdest combination of characters I could think of.  
 
-![rainbow](https://user-images.githubusercontent.com/84760072/208384585-03ebeb8d-25ad-4764-8c55-3952c670dce5.png)
+![image](https://user-images.githubusercontent.com/84760072/220260132-78da2055-7d3d-48a9-b9a6-b69285ca0b13.png)
