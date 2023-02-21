@@ -1,8 +1,9 @@
 {
   "name": "cecdown",
+  "type": "module",
   "version": "1.0.0",
   "description": "A small markdown language parser / styled text renderer",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hwelsters/cecdown/issues"
   },
-  "homepage": "https://github.com/hwelsters/cecdown#readme"
+  "homepage": "https://github.com/hwelsters/cecdown#readme",
+  "dependencies": {
+    "insane": "^2.6.2"
+  }
 }
